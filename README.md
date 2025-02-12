@@ -1,2 +1,4 @@
 # OpenAI-Cookbook
-This project portoflio work in relation to ChatGPT for Cybersecurity Cookbook - I specifically asked ChatGPT to configure these files for Linux and Linux Only. Might do another project using Windows on a Virtual Machine. 
+This project portfolio work related to the ChatGPT for Cybersecurity Cookbook by Packt - I specifically asked ChatGPT to configure these files for Linux only. 
+
+I'll do another project further down the road on a Windows Virtual Machine. Alot can change in both a short and long amount of time. But luckily the use of ChatGPT really helped get me up to speed not only as an assistant but as a teacher. 
