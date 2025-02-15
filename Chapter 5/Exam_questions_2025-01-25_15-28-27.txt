@@ -1,0 +1,176 @@
+Question 1: Which of the following is an example of a technical control?
+A) Security policy
+B) Security awareness training
+C) Firewalls
+D) Incident response plan
+
+Question 2: What is the primary goal of confidentiality in information security?
+A) To ensure data is accurate and reliable
+B) To ensure data is accessible only to authorized users
+C) To ensure data is available when needed
+D) To ensure data is protected from unauthorized modification
+
+Question 3: Which of the following is NOT one of the CIA triad principles in information security?
+A) Confidentiality
+B) Integrity
+C) Availability
+D) Authentication
+
+Question 4: What is the purpose of a security control?
+A) To eliminate all risks
+B) To reduce risks to an acceptable level
+C) To transfer risks to a third party
+D) To ignore risks
+
+Question 5: Which of the following is an example of a preventive control?
+A) Firewall
+B) Intrusion detection system
+C) Security incident response plan
+D) Security awareness training
+
+Question 6: What is the primary goal of risk management in cybersecurity?
+A) To eliminate all risks
+B) To accept all risks
+C) To reduce risks to an acceptable level
+D) To transfer all risks to a third party
+
+Question 7: Which of the following is an example of a security governance activity?
+A) Security incident response
+B) Security awareness training
+C) Security policy development
+D) Security risk assessment
+
+Question 8: What is the purpose of a security policy?
+A) To eliminate all security risks
+B) To inform employees about security incidents
+C) To provide guidance on how to secure information and systems
+D) To ignore security risks
+
+Question 9: What is the first step in the incident response process?
+A) Containment
+B) Identification
+C) Eradication
+D) Recovery
+
+Question 10: Which of the following is NOT a common step in the risk management process?
+A) Risk assessment
+B) Risk acceptance
+C) Risk denial
+D) Risk mitigation
+
+Question 11: What is the purpose of an access control list (ACL)?
+A) To filter network traffic based on specific criteria
+B) To prevent physical access to a building
+C) To manage access to a database
+D) To create secure passwords
+
+Question 12: Which of the following is an example of a detective control?
+A) Encryption
+B) Security cameras
+C) Antivirus software
+D) Firewalls
+
+Question 13: What is the primary goal of security awareness training?
+A) To eliminate all security risks
+B) To inform employees about security best practices
+C) To guarantee no security incidents will occur
+D) To ignore security risks
+
+Question 14: What is the purpose of a vulnerability assessment?
+A) To exploit security vulnerabilities
+B) To identify and prioritize security vulnerabilities
+C) To hide security vulnerabilities
+D) To eliminate all security vulnerabilities
+
+Question 15: Which of the following is an example of a physical control?
+A) Encryption
+B) Biometric authentication
+C) Security guards
+D) Intrusion detection system
+
+Question 16: What does the principle of least privilege dictate?
+A) Users should have the maximum level of access possible
+B) Users should have the least amount of access necessary to perform their duties
+C) Users should have no access to any systems
+D) Users should have access to all systems
+
+Question 17: What is the primary goal of encryption in cybersecurity?
+A) To prevent unauthorized access
+B) To eliminate all security risks
+C) To guarantee system availability
+D) To ignore security incidents
+
+Question 18: What is the purpose of a disaster recovery plan?
+A) To prevent all disasters
+B) To ensure business continuity in case of a disaster
+C) To recover from a disaster with no plan in place
+D) To ignore potential disasters
+
+Question 19: Which of the following is an example of a technical vulnerability?
+A) Weak password policy
+B) Lack of security awareness training
+C) Outdated antivirus software
+D) Unlocked server room door
+
+Question 20: What is the goal of penetration testing?
+A) To exploit security vulnerabilities
+B) To identify and exploit security vulnerabilities
+C) To identify and assess security vulnerabilities
+D) To hide security vulnerabilities
+
+Question 21: What is the purpose of a security incident response plan?
+A) To prevent all security incidents
+B) To respond effectively to security incidents
+C) To ignore security incidents
+D) To create security incidents
+
+Question 22: Which of the following is an example of a security control related to personnel?
+A) Firewalls
+B) Security badges
+C) Intrusion detection systems
+D) Encryption
+
+Question 23: What is the primary goal of physical security controls?
+A) To prevent unauthorized access to physical locations and assets
+B) To prevent cybersecurity attacks
+C) To guarantee system availability
+D) To ignore security incidents
+
+Question 24: What is the purpose of a business continuity plan?
+A) To ensure business operations can continue in case of a disaster
+B) To disrupt business operations in case of a disaster
+C) To prevent all disasters
+D) To ignore potential disasters
+
+Question 25: Which of the following is an example of a security control related to data?
+A) Security awareness training
+B) Encryption
+C) Security cameras
+D) Security guards
+
+Answer Key:
+1) C) Firewalls
+2) B) To ensure data is accessible only to authorized users
+3) D) Authentication
+4) B) To reduce risks to an acceptable level
+5) A) Firewall
+6) C) To reduce risks to an acceptable level
+7) C) Security policy development
+8) C) To provide guidance on how to secure information and systems
+9) B) Identification
+10) C) Risk denial
+11) A) To filter network traffic based on specific criteria
+12) B) Security cameras
+13) B) To inform employees about security best practices
+14) B) To identify and prioritize security vulnerabilities
+15) C) Security guards
+16) B) Users should have the least amount of access necessary to perform their duties
+17) A) To prevent unauthorized access
+18) B) To ensure business continuity in case of a disaster
+19) C) Outdated antivirus software
+20) C) To identify and assess security vulnerabilities
+21) B) To respond effectively to security incidents
+22) B) Security badges
+23) A) To prevent unauthorized access to physical locations and assets
+24) A) To ensure business operations can continue in case of a disaster
+25) B) Encryption

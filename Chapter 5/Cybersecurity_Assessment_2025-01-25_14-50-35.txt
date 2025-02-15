@@ -1,0 +1,99 @@
+1. Question: What is the most common goal of a phishing attack?
+   A) Stealing personal information
+   B) Installing antivirus software
+   C) Enhancing cybersecurity awareness
+   D) Updating operating systems
+
+   Correct Answer: A) Stealing personal information
+
+   Context: Phishing attacks aim to trick individuals into providing sensitive information such as login credentials, credit card details, or personal information.
+
+2. Question: Which of the following is a strong password practice?
+   A) Using the same password for multiple accounts
+   B) Using easily guessable information like birthdates
+   C) Using a combination of letters, numbers, and special characters
+   D) Sharing passwords with colleagues
+
+   Correct Answer: C) Using a combination of letters, numbers, and special characters
+
+   Context: Strong passwords should be unique, complex, and difficult for attackers to guess or crack.
+
+3. Question: What should you do if you receive an unexpected email requesting sensitive information or asking you to click on a link?
+   A) Ignore the email
+   B) Reply with the requested information
+   C) Click on the link to see where it leads
+   D) Report the email to your IT department
+
+   Correct Answer: D) Report the email to your IT department
+
+   Context: Reporting suspicious emails helps prevent falling victim to phishing attempts and protects sensitive data.
+
+4. Question: Which of the following is a safe browsing practice to avoid malicious websites?
+   A) Clicking on pop-up ads
+   B) Avoiding secure websites (https://)
+   C) Downloading software from unknown sources
+   D) Verifying website URLs before clicking on links
+
+   Correct Answer: D) Verifying website URLs before clicking on links
+
+   Context: Verifying website URLs helps prevent visiting malicious websites that may infect your device with malware.
+
+5. Question: What is a common sign of malicious software on your device?
+   A) Faster device performance
+   B) Unexplained pop-up windows
+   C) Increased storage capacity
+   D) Enhanced battery life
+
+   Correct Answer: B) Unexplained pop-up windows
+
+   Context: Unexplained pop-ups can indicate the presence of adware or other malicious software on your device.
+
+6. Question: Which of the following is an example of sensitive data that should be protected?
+   A) Publicly available company contact information
+   B) Personal email address for work communication
+   C) Employee handbook access for all staff
+   D) Customer credit card details
+
+   Correct Answer: D) Customer credit card details
+
+   Context: Sensitive data like customer credit card details should be protected to prevent data breaches and maintain trust.
+
+7. Question: What should you do if you suspect a security incident or breach at your workplace?
+   A) Share the information on social media
+   B) Keep it to yourself and ignore it
+   C) Report it to your manager or IT department
+   D) Delete any evidence to avoid trouble
+
+   Correct Answer: C) Report it to your manager or IT department
+
+   Context: Promptly reporting security incidents helps mitigate potential damage and allows for a swift response to contain the breach.
+
+8. Question: What is an essential security measure for protecting mobile devices?
+   A) Disabling automatic updates
+   B) Enabling biometric authentication
+   C) Sharing devices with friends and family
+   D) Using public Wi-Fi for sensitive transactions
+
+   Correct Answer: B) Enabling biometric authentication
+
+   Context: Biometric authentication adds an extra layer of security to mobile devices, making it harder for unauthorized users to access your device.
+
+9. Question: How can you physically secure your devices in a public setting?
+   A) Leave devices unattended
+   B) Use a cable lock or secure them in a locker
+   C) Share devices with strangers
+   D) Keep devices openly visible on tables
+
+   Correct Answer: B) Use a cable lock or secure them in a locker
+
+   Context: Physically securing devices in public places helps prevent theft and unauthorized access to sensitive information.
+
+10. Question: Why is it important to adhere to cybersecurity policies and compliance regulations?
+    A) To avoid receiving cybersecurity training
+    B) To protect sensitive data and prevent breaches
+    C) To increase the workload for IT departments
+    D) To share confidential information with external parties
+
+    Correct Answer: B) To protect sensitive data and prevent breaches
+
+    Context: Following cybersecurity policies and regulations helps maintain a secure environment, safeguard data, and minimize the risk of cyber threats and attacks.

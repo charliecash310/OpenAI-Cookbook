@@ -1,0 +1,44 @@
+**Simulation 1: Phishing Attempt**
+
+**From:** security@bankoftrust.com  
+**Subject:** Urgent Action Required: Verify Your Account Now!  
+**Body:**  
+Dear Customer,  
+Due to recent security upgrades, we require you to verify your account information immediately to avoid any disruption to your banking services. Click on the link below to proceed.  
+[Verify Account Now](http://fakephishingsite.com)  
+
+**Answer:** This email is a phishing attempt. The sender's email address may appear legitimate, but clicking on the link will take the recipient to a fake phishing website designed to steal their login credentials.
+
+**Supporting Details:** The email creates a sense of urgency to prompt the recipient to act quickly without thinking critically. The link provided does not lead to the legitimate bank's website but to a fake phishing site. Headers show the email originating from an external source rather than the bank's official server.
+
+---
+
+**Simulation 2: Legitimate Email**
+
+**From:** hr@yourcompany.com  
+**Subject:** Open Enrollment for Benefits  
+**Body:**  
+Dear Employee,  
+It's time for open enrollment for benefits. Please review the attached document for important information regarding healthcare options and enrollment deadlines.  
+Thank you,  
+HR Team  
+
+**Answer:** This email is legitimate. It informs employees about open enrollment for benefits and provides a document attachment for further details. The sender's email address matches the company's domain, and the content is relevant to all employees.
+
+**Supporting Details:** The email is sent from the company's official HR email address. The attachment is a PDF document with details about benefit options, and there are no suspicious links or requests for personal information.
+
+---
+
+**Simulation 3: CEO Impersonation**
+
+**From:** ceo@yourcompany.com  
+**Subject:** Urgent Request  
+**Body:**  
+Hello,  
+I need your assistance with a time-sensitive financial matter. Please reply to this email for further instructions.  
+Thanks,  
+CEO  
+
+**Answer:** This email is a phishing attempt using CEO impersonation tactics. The sender's email address appears to be from the CEO, creating a sense of urgency to prompt the recipient to respond without verifying the authenticity of the request.
+
+**Supporting Details:** The email uses the CEO's name and email address to trick the recipient into responding. By requesting assistance with a vague financial matter, the attacker aims to manipulate the recipient into providing sensitive information or transferring funds without proper verification.
