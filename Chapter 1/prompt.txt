@@ -1,0 +1,3 @@
+I learned ethical hacking through Cisco. I feel pretty proficient but I want to refine my skills. Who are the best resources that I can use to practice these skills?
+I love red teaming. But lately it seems blue teaming is more desirable in order to protect assets. Can you give more insight as to how this can be achieved?
+Who are the best resources to practice these skills. What else is there to consider with being both an ethical hacker and a SOC analyst?
