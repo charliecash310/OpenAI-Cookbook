@@ -1,0 +1,16 @@
+Network Size: Small
+Number of Nodes: 25
+Type of Devices: Servers, Workstations
+Specific systems or devices that need to be excluded from the assessment: Printer01, OldRouter02
+Operating Systems: Windows 10, Linux Ubuntu 22.04
+Network Topology: Star
+Access Controls: Role-based
+Previous Security Incidents: None
+Compliance Requirements: GDPR, PCI-DSS
+Business Critical Assets: Database Server, Application Server
+Data Classification: Confidential, Public
+Goals and objectives of the vulnerability assessment: Improve security posture
+Timeline for the vulnerability assessment: 1 week
+Team: IT Security Team
+Expected deliverables of the assessment: Vulnerability Report, Recommendations
+Audience: IT Management
