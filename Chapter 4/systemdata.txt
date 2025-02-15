@@ -1,0 +1,22 @@
+# Creating an example systemdata.txt file with realistic data for testing purposes
+
+example_system_data = """\
+Asset,Type,Importance,Risk Level,Severity,Value,Vulnerabilities
+Web Server,Application,High,Critical,5,10000,"Outdated TLS version, Weak password policy"
+Email Server,Service,High,High,4,8000,"Spam filter misconfigurations, Phishing susceptibility"
+Database Server,Infrastructure,Critical,Critical,5,20000,"SQL injection, Weak access controls"
+IoT Device,Hardware,Medium,Medium,3,3000,"Default credentials, Unencrypted communication"
+CRM Software,Application,High,High,4,15000,"Cross-site scripting, Unpatched plugins"
+ERP System,Application,Critical,Critical,5,30000,"Privilege escalation, Outdated modules"
+Networking Switch,Infrastructure,Medium,High,4,5000,"Firmware vulnerabilities, Weak SNMP community string"
+Mobile Device,Hardware,Medium,Medium,3,2000,"Lack of device encryption, Outdated OS version"
+Firewall,Infrastructure,Critical,High,5,10000,"Misconfigured rules, Missing updates"
+Payment Gateway,Service,Critical,Critical,5,25000,"Weak encryption, Lack of PCI DSS compliance"
+"""
+
+# Save this data to systemdata.txt
+file_path = "/mnt/data/systemdata.txt"
+with open(file_path, "w") as file:
+    file.write(example_system_data)
+
+file_path
