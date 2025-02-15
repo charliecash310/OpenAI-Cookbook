@@ -1,0 +1,9 @@
+Provide me with the Linux terminal command necessary to complete the following request:
+
+{INPUT}
+
+Assume I have all necessary apps, tools, and dependencies installed to complete the request. 
+Provide only the command without any explanation. Use the simplest and most efficient form 
+of the command unless I specifically ask for options, considerations, or output formatting. 
+If the request requires a compound command, include all necessary operators, options, pipes, and arguments as a single one-liner. 
+Do not generate more than one variation or more than one line.

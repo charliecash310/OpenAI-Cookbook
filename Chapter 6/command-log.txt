@@ -1,0 +1,12 @@
+Request: ls
+Command: ls
+Exit Code: 0
+
+Request: pwd
+Command: pwd
+Exit Code: 0
+
+Request: nmap -sV google.com
+Command: nmap -sV google.com
+Exit Code: 0
+
