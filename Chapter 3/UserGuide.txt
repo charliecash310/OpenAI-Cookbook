@@ -1,0 +1,133 @@
+User Guide
+
+# Introduction
+
+## Introduction
+
+The Python code provided defines a Module class that contains a static method, `generate`, which is responsible for generating a script based on provided parameters. This script is created by reading the common module source code using the `get_module_source` method from the `MainMenu` instance. If any errors occur during this process, an error message is handled using the `handle_error_message` function.
+
+The script is then constructed by appending parameters and their corresponding values to a string, `script_end`, which eventually forms part of the final script to be executed. The method also includes logic to transform shellcode input into the correct format if the parameter key is "shellcode".
+
+Finally, the `finalize_module` method from `main_menu.modulesv2` is called to complete the module generation process by combining the initial script with the constructed `script_end` and additional obfuscation parameters if specified.
+
+Overall, this Module class serves as a utility for dynamically generating and finalizing scripts for specific modules within the Empire server environment.
+
+# Installation Guide
+
+### Installation Guide
+
+To install and use the provided Python code, follow these steps:
+
+1. Ensure that Python is installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+
+2. Create a new Python script file or open an existing Python script where you want to incorporate the provided code.
+
+3. Copy and paste the entire Python code snippet into your Python script file.
+
+4. Save the file with an appropriate name and ensure that the file extension is `.py`.
+
+5. Import any necessary modules or packages that are required for the execution of the provided code. You may need to install additional dependencies using Python's package manager, pip.
+
+6. Ensure that the necessary classes and functions are correctly referenced and called within your Python script.
+
+7. Customize the `Module.generate` method according to your specific requirements by providing the required parameters to the method.
+
+8. Execute your Python script to run the functionality provided by the `Module.generate` method.
+
+9. Verify that the script executes without any errors and produces the expected output based on the input parameters provided.
+
+By following these steps, you can successfully install and utilize the provided Python code within your Python environment.
+
+# Usage Guide
+
+## Usage Guide
+
+### Overview
+The `Module` class provides a method `generate` to assist in generating a module script for Empire, a post-exploitation agent. This method allows for customization of parameters and script obfuscation.
+
+### Usage
+1. Import the necessary classes and functions:
+    ```python
+    from empire.server.common.empire import MainMenu
+    from empire.server.core.module_models import EmpireModule
+    from empire.server.utils.module_util import handle_error_message
+    ```
+
+2. Define the `Module` class and its `generate` method:
+    ```python
+    class Module:
+        @staticmethod
+        def generate(
+            main_menu: MainMenu,
+            module: EmpireModule,
+            params: dict,
+            obfuscate: bool = False,
+            obfuscation_command: str = "",
+        ):
+            # Implementation details as described in the code snippet
+    ```
+
+3. Call the `generate` method with the required parameters:
+    - `main_menu`: An instance of `MainMenu` for interacting with Empire's main menu.
+    - `module`: An instance of `EmpireModule` representing the module for which the script is being generated.
+    - `params`: A dictionary containing the parameters to customize the module script.
+    - `obfuscate`: A boolean indicating whether script obfuscation is enabled (default is `False`).
+    - `obfuscation_command`: A string representing the obfuscation command to use (if obfuscation is enabled).
+
+4. Customize the module script by providing values for the parameters in the `params` dictionary. The script generation includes handling special cases, such as transforming shellcode to the correct format.
+
+5. Finalize the module script generation by calling `finalize_module` method from `main_menu.modulesv2` with the generated script, script ending, obfuscation settings, and obfuscation command.
+
+### Example
+```python
+main_menu = MainMenu()
+module = EmpireModule('module_script_path')
+params = {
+    'param1': 'value1',
+    'param2': 'value2',
+    'shellcode': 'shellcode_value',
+}
+obfuscate = True
+obfuscation_command = 'custom_command'
+
+generated_script = Module.generate(main_menu, module, params, obfuscate, obfuscation_command)
+print(generated_script)
+```
+
+### Notes
+- Ensure that the required modules are imported before using the `Module` class.
+- Provide valid parameters and values in the `params` dictionary for the module script customization.
+- Verify the generated script before executing it within the Empire framework.
+- Handle any errors returned by the `handle_error_message` function appropriately.
+
+# Troubleshooting
+
+## Troubleshooting
+
+### 1. Module not loading or executing correctly
+- **Issue**: The module may not load or execute correctly due to errors in the source code retrieval or processing.
+- **Troubleshooting Steps**:
+  1. Check if the `module_name` provided in `get_module_source` method of `main_menu.modulesv2` is correct and exists.
+  2. Verify that the parameters passed to the `generate` method are correct and in the expected format.
+  3. Ensure that the `finalize_module` method in `main_menu.modulesv2` is properly handling the script and script_end parameters.
+  4. Check the error message returned by `handle_error_message` function for more details on the encountered issue.
+
+### 2. Incorrect output or behavior of the module
+- **Issue**: The generated script may produce unexpected output or behavior during execution.
+- **Troubleshooting Steps**:
+  1. Review the transformation of `shellcode` parameter to ensure it is formatted correctly.
+  2. Verify that the key-value pairs in the `params` dictionary are correctly appended to the `script_end`.
+  3. Check if the `Invoke-EternalBlue` command at the end of the script is being appended as expected.
+  
+### 3. Obfuscation not working as intended
+- **Issue**: The obfuscation of the script may not be applied correctly or the obfuscation command may not be effective.
+- **Troubleshooting Steps**:
+  1. Confirm that the `obfuscate` and `obfuscation_command` parameters are being passed correctly throughout the script.
+  2. Validate that the obfuscation logic within the `generate` method is functioning as intended.
+  3. Check if any errors related to obfuscation are being handled properly by the `handle_error_message` function.
+
+### General Recommendations
+- Always ensure that input parameters are correctly formatted and passed to the methods.
+- Regularly monitor and log any error messages or exceptions to aid in troubleshooting.
+- Consider debugging the code using print statements or a debugger to identify potential issues.
+
