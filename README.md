@@ -3,11 +3,11 @@ This project portfolio work related to the ChatGPT for Cybersecurity Cookbook by
 
 I'll do another project further down the road on a Windows Virtual Machine. Alot can change in both a short and long amount of time. But luckily the use of ChatGPT really helped get me up to speed not only as an assistant but as a teacher. 
 
-Chapter 1: Getting Started: ChatGPT, the OpenAI API, and Prompt Engineering
-Chapter 2: Vulnerability Assessment
-Chapter 3: Code Analysis and Secure Development
-Chapter 4: Governance, Risk, and Compliance (GRC)
-Chapter 5: Security Awareness and Training
-Chapter 6: Red Teaming and Penetration Testing
-Chapter 7: Threat Monitoring and Detection
-Chapter 8: Incident Response
+- Chapter 1: Getting Started: ChatGPT, the OpenAI API, and Prompt Engineering
+- Chapter 2: Vulnerability Assessment
+- Chapter 3: Code Analysis and Secure Development
+- Chapter 4: Governance, Risk, and Compliance (GRC)
+- Chapter 5: Security Awareness and Training
+- Chapter 6: Red Teaming and Penetration Testing
+- Chapter 7: Threat Monitoring and Detection
+- Chapter 8: Incident Response
