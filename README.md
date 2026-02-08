@@ -11,3 +11,5 @@ I'll do another project further down the road on a Windows Virtual Machine. Alot
 - Chapter 6: Red Teaming and Penetration Testing
 - Chapter 7: Threat Monitoring and Detection
 - Chapter 8: Incident Response
+
+<img width="725" height="909" alt="image" src="https://github.com/user-attachments/assets/09d7941b-b311-4a37-925d-c1a9c24f0e3a" />
